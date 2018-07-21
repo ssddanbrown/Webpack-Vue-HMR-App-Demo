@@ -26,6 +26,9 @@ npm install
 # Build Assets
 npm run build
 
+# Build Assets & Watch for changes, With hot-reloading
+npm run dev
+
 # Run original PHP app
 php -S localhost:8080
 
